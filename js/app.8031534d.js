@@ -544,7 +544,7 @@
         n("e739")
     },
     aefa: function(e, t, n) {
-        e.exports = n.p + "https://svgshare.com/i/YNg.svg"
+        e.exports = n.p + "https://xeno.finance/img/save-energy.24def589.svg"
     },
     c475: function(e, t, n) {
         "use strict";
@@ -555,11 +555,11 @@
         n("147a")
     },
     e507: function(e, t, n) {
-        e.exports = n.p + "https://svgshare.com/i/YPY.svg"
+        e.exports = n.p + "https://xeno.finance/img/tree.24dfdc48.svg"
     },
     e739: function(e, t, n) {},
     f1e7: function(e, t, n) {
-        e.exports = n.p + "https://svgshare.com/i/YNh.svg"
+        e.exports = n.p + "https://xeno.finance/img/xeno-white.05138cc7.svg"
     },
     f460: function(e, t, n) {}
 });
