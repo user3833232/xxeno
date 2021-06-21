@@ -493,7 +493,7 @@
                 data: function() {
                     return {
                         src: "",
-                        videos: ["../assets/video.mp4", "../assets/tropical.mp4", "../assets/pexels-mikhail-nilov-6989136.mp4", "../assets/production ID_4328789.mp4"]
+                        videos: ["https://xeno.finance/assets/tropical.mp4"]
                     }
                 },
                 mounted: function() {
@@ -544,7 +544,7 @@
         n("e739")
     },
     aefa: function(e, t, n) {
-        e.exports = n.p + "img/save-energy.24def589.svg"
+        e.exports = n.p + "https://svgshare.com/i/YNg.svg"
     },
     c475: function(e, t, n) {
         "use strict";
@@ -555,11 +555,11 @@
         n("147a")
     },
     e507: function(e, t, n) {
-        e.exports = n.p + "img/tree.24dfdc48.svg"
+        e.exports = n.p + "https://svgshare.com/i/YPY.svg"
     },
     e739: function(e, t, n) {},
     f1e7: function(e, t, n) {
-        e.exports = n.p + "img/xeno-white.05138cc7.svg"
+        e.exports = n.p + "https://svgshare.com/i/YNh.svg"
     },
     f460: function(e, t, n) {}
 });
