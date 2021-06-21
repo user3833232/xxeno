@@ -81,7 +81,7 @@
     },
     "147a": function(e, t, n) {},
     "1c54": function(e, t, n) {
-        e.exports = n.p + "img/wind-power.f29f01b8.svg"
+        e.exports = n.p + "https://xeno.finance/img/wind-power.f29f01b8.svg"
     },
     "33ff": function(e, t, n) {
         "use strict";
